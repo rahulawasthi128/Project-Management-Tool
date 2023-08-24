@@ -1,6 +1,7 @@
 {
   "name": "project-management-tool",
   "version": "0.1.0",
+  "homepage": "https://rahulawasthi128.github.io/Project-Management-Tool",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
